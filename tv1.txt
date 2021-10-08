@@ -1,0 +1,17 @@
+点播:
+宅看影视,http://www.zhaikanys.xyz/api.php/provide/vod/at/xml,https://okjx.cc?url=
+明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,https://okjx.cc?url=
+蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,https://okjx.cc?url=
+柚子资源,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,https://okjx.cc?url=
+天空资源,http://api.tiankongapi.com/api.php/provide/vod/at/xml,https://okjx.cc?url=
+555资源,https://www.555dy3.com/api.php/provide/vod/at/xml,https://okjx.cc?url=
+云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,https://okjx.cc?url=
+影派资源,https://v.dtjos.com/api.php/provide/vod/at/xml,https://okjx.cc?url=
+39影视,https://www.39kan.com/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+PZ影视,https://puz.pub/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+穿梭资源,http://ok.888hyk.com/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+快播影视,http://www.kuaibozy.com/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+39影视,https://www.39kan.com/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+安逸影视,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+极品影视,https://www.jpysvip.net/api.php/provide/vod/at/xml,http://player.maguays.cc/?url=
+结束
