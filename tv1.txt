@@ -1,4 +1,4 @@
-点播:
+点播：
 宅看影视,http://www.zhaikanys.xyz/api.php/provide/vod/at/xml,https://okjx.cc?url=
 明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,https://okjx.cc?url=
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,https://okjx.cc?url=
